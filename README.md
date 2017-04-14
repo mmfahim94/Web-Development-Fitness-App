@@ -8,4 +8,4 @@
 
 Hi there! Welcome to our fitness app FAM!
 
-We have lots of stuff to do, so let's get it.
+We have lots of stuff to do, so let's get it. 
